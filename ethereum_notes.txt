@@ -1,5 +1,0 @@
-This is test Note.
-this is second note.
-This is third Note.
-this is forth Note.
-this is fifth commit
