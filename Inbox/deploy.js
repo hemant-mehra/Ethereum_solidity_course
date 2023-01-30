@@ -4,7 +4,7 @@ const {interface ,bytecode} =require('./compile');
 
 
 const provider = new HDWalletProvider(
-    'tooth humor season cost oven inform mosquito office chunk shoe ability treat',
+    'keyword private---------------------',
     'https://goerli.infura.io/v3/da4b9a765ed44151873997b0ef44713a'
 );
 
